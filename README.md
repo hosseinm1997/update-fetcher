@@ -5,3 +5,9 @@ You can easily fetch bot updates from telegram servers and push it into any onli
 Just run Executables/FetchBotUpdate.exe and set your own config.
 
 Good news is that you can have unlimited number of executables with different config file for each one of your bot projects because the config file be stored beside the exe file.
+
+See below screenshots.
+
+![Screenshot1](https://github.com/hosseinm1997/update-fetcher/raw/master/Screenshots/Screenshot1.jpg)
+
+![Screenshot2](https://github.com/hosseinm1997/update-fetcher/raw/master/Screenshots/Screenshot2.jpg)
