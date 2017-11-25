@@ -1,0 +1,9 @@
+c:\users\hossein\documents\visual studio 2012\Projects\deli\FetchBotUpdate\FetchBotUpdate\bin\Debug\FetchBotUpdate.exe
+c:\users\hossein\documents\visual studio 2012\Projects\deli\FetchBotUpdate\FetchBotUpdate\bin\Debug\FetchBotUpdate.pdb
+c:\users\hossein\documents\visual studio 2012\Projects\deli\FetchBotUpdate\FetchBotUpdate\obj\Debug\FetchBotUpdate.csprojResolveAssemblyReference.cache
+c:\users\hossein\documents\visual studio 2012\Projects\deli\FetchBotUpdate\FetchBotUpdate\obj\Debug\FetchBotUpdate.Form1.resources
+c:\users\hossein\documents\visual studio 2012\Projects\deli\FetchBotUpdate\FetchBotUpdate\obj\Debug\FetchBotUpdate.Properties.Resources.resources
+c:\users\hossein\documents\visual studio 2012\Projects\deli\FetchBotUpdate\FetchBotUpdate\obj\Debug\FetchBotUpdate.csproj.GenerateResource.Cache
+c:\users\hossein\documents\visual studio 2012\Projects\deli\FetchBotUpdate\FetchBotUpdate\obj\Debug\FetchBotUpdate.exe
+c:\users\hossein\documents\visual studio 2012\Projects\deli\FetchBotUpdate\FetchBotUpdate\obj\Debug\FetchBotUpdate.pdb
+c:\users\hossein\documents\visual studio 2012\Projects\deli\FetchBotUpdate\FetchBotUpdate\bin\Debug\FetchBotUpdate.exe.config
