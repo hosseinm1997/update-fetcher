@@ -1,5 +1,7 @@
 # Telegram Bot Update Fetcher
 
+An windows form application written in C# for polling updates from telegram servers.
+
 This project will be useful when you are in development step of your bot project.
 
 You can easily fetch bot updates from telegram servers and push it into any online/localhost address with your custom interval in miliseconds.
